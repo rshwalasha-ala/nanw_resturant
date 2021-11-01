@@ -1,0 +1,51 @@
+.top-bar{
+    background-color: rgba(0, 0, 0, 0.603);
+}
+.lead-card__cta{
+    color: rgb(240, 151, 8);
+    font-size: 25px;
+    
+    
+}
+.lead-card__cta1{
+    color:rgb(196, 180, 93);
+    font-style: italic;
+}
+.lead-card__main{
+    
+    border-radius: 0px 17px 0px 0px;
+}
+ .lead-card__main{
+border:2px solid rgba(240, 151, 8, 0.774);
+}
+.horizontal-card img {
+    width: 195px;
+    position: absolute;
+    left: 285px;
+    top: 7px;
+    display: inline-block;
+    overflow: hidden;
+    transition: transform .2s ease-in-out;
+}
+.order,.footer__to-top{
+    margin-top: 2rem;
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: bolder;
+    color: #090909;
+    background: #f09708;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    padding: 0.8rem 3rem;
+}
+
+
+.order:hover{
+    background:#f0970877;
+    letter-spacing: .1rem;
+    color:black;
+}
+#viedeosSection{
+    background-color: #f48d0878;}
+    
+  
